@@ -32,22 +32,11 @@ packages we find useful, and have been chosen primarily for their
 usability.
 
 Current Maintainers:
-
-- [Naupaka Zimmerman][zimmerman_naupaka]
-- [Sehrish Kanwal](https://github.com/skanwal)
-- [Matthieu Bruneaux](https://github.com/matthieu-bruneaux)
-
-Previous Maintainers:
-
-- [David Mawdsley][mawdsley_david]
-- [Jeff Oliver][oliver_jeffrey]
-- Tom Wright
+Ali Aslam
+Muhammed Idris
 
 [gapminder]: https://www.gapminder.org/
 [lesson-example]: https://carpentries.github.io/lesson-example
-[zimmerman_naupaka]: https://carpentries.org/maintainers/#naupaka
-[mawdsley_david]: https://carpentries.org/maintainers/#mawds
-[oliver_jeffrey]: https://carpentries.org/maintainers/#jcoliver
 
 
 
